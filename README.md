@@ -31,8 +31,8 @@ The Repository contains multiple form elements for the marathon registration int
 ## Development setup
 
 ```sh
-make install
-npm test
+cd The-FETSU-RUN/
+firefox ./index.html
 ```
 
 ## Release History
@@ -46,7 +46,7 @@ npm test
     * Work in progress
 
 ## Meta
-Tech Stack: HTML5, CSS3, JS ES6  
+Tech Stack: HTML 5, CSS 3, SASS/SCSS, JS ES6  
 The payment APIs are provided by PayU(https://payu.in/)  
  
 Author: Faculty of Engineering and Technology  
@@ -65,4 +65,3 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
-
