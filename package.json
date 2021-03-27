@@ -1,0 +1,19 @@
+{
+  "name": "the-fetsu-run",
+  "version": "1.0.0",
+  "description": "> :point_right: Live Preview: https://thefetsurunforeducation.netlify.app/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinha-ayush/The-FETSU-Run.git"
+  },
+  "author": "Ayush Kumar Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinha-ayush/The-FETSU-Run/issues"
+  },
+  "homepage": "https://github.com/sinha-ayush/The-FETSU-Run#readme"
+}
